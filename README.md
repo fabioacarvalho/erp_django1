@@ -84,9 +84,3 @@ Acesse: [localhost:8000/admin](localhost:8000/admin)
 <img src="https://raw.githubusercontent.com/fabioacarvalho/erp_django1/master/static/assets/img/actions.png?token=GHSAT0AAAAAACOV56O57UYO3U37ROF4DDEQZPVAVFA">
 
 <br>
-
-#### Recent actions:
-
-<img src="https://raw.githubusercontent.com/fabioacarvalho/erp_django1/master/static/assets/img/actions.png?token=GHSAT0AAAAAACOV56O57UYO3U37ROF4DDEQZPVAVFA">
-
-<br>
